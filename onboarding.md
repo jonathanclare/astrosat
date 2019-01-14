@@ -2,7 +2,7 @@
 
 This document outlines the onboarding process for new employees.
 
-## Documentation
+## Company Documentation
 
 Documentation is stored on [google drive](https://drive.google.com/).
 
