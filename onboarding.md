@@ -8,16 +8,14 @@ Documentation is stored on [google drive](https://drive.google.com/).
 
 In order to access this a [google account](https://myaccount.google.com/) will be set up for you.
 
-Your email will be `firstname.lastname@astrosat.space`. This can be accessed through your [gmail](https://mail.google.com) account.
+* [Wiki](https://github.com/astrosat/company-wiki) Standards and useful information for newcomers
 
 ## Communication Tools
 
 * [Slack](https://slack.com/) a cloud-based set of proprietary team collaboration tools and services. You will be emailed an invite to join the [Astrosat Workspace](https://astrosat.slack.com).
-* Email - Your email will be `firstname.lastname@astrosat.space`. This can be accessed through [gmail](https://mail.google.com).
+* Your email will be `firstname.lastname@astrosat.space`. This can be accessed through your [gmail](https://mail.google.com) account.
 
 ## Developer Tools
-
-* [Wiki](https://github.com/astrosat/company-wiki)
 
 To setup and log on to the following need to have access to Astrosats internal server.
 
