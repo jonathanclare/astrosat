@@ -2,13 +2,13 @@
 
 This document outlines the onboarding process for new employees.
 
+For standards and useful information for newcomers view our [Wiki](https://github.com/astrosat/company-wiki) 
+
 ## Company Documentation
 
 Documentation is stored on [google drive](https://drive.google.com/).
 
 In order to access this a [google account](https://myaccount.google.com/) will be set up for you.
-
-* [Wiki](https://github.com/astrosat/company-wiki) Standards and useful information for newcomers
 
 ## Communication Tools
 
