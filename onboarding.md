@@ -8,7 +8,7 @@ Documentation is stored on [google drive](https://drive.google.com/).
 
 In order to access this a [google account](https://myaccount.google.com/) will be set up for you.
 
-Your email will be `firstname.lastname@astrosat.space`. This can be accessed through [gmail](https://mail.google.com).
+Your email will be `firstname.lastname@astrosat.space`. This can be accessed through your [gmail](https://mail.google.com) account.
 
 ## Communication Tools
 
